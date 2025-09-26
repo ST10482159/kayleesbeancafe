@@ -41,7 +41,7 @@ header h1 {
     margin: 0;
     display: flex;
     justify-content: center;
-    background-color: lightgray ;
+    background-color: tan;
 }
 
 .nav-links li {
