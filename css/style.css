@@ -94,9 +94,9 @@ footer  {
   
 /*MAP STYLING*/
 iframe {
-  width: 100%;       /* full width of container */
-  max-width: 800px;  /* limit on large screens */
-  height: 450px;     /* default height */
+  width: 100%;       
+  max-width: 800px;  
+  height: 450px;     
   border: 0;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
